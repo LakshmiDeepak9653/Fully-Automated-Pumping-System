@@ -41,3 +41,13 @@ The key objective of this project is to monitor the soil’s moisture content du
 
 # Circuit Diagram:-
 ![Circuit Diagram](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/Screenshot%20from%202022-04-14%2019-14-23.png?token=GHSAT0AAAAAABTZRYW2BA7EKKZ43NPPGEHAYTGJN7A)
+
+
+# Working Principle:-
+
+1. Firstly the Ultra Sonic sensor reads the level of water tank, converts it into scale of 100 and sends the data to Arduino. 
+2. Similar for Soil moisture sensor. It reads the  water content of soil, converts it into 100 and sends the data to Arduino.
+3. In Arduino it analyses the data received from UltraSonic sensor and Soil moisture sensor. 
+4. Arduino operates their respective Motors as per their threshold levels of Water tank level and Soil moisture.
+5. Prints the Output in LCD.
+
