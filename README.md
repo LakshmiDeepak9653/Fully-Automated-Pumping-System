@@ -1,4 +1,5 @@
-![PAGE 0](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-0.png?token=GHSAT0AAAAAABTZRYW3GPZH2SHVTWHZONZIYTGIR6A)
+
+![PAGE 0](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-0.png?token=GHSAT0AAAAAABTZRYW33OUM6U5OQJERBOCYYTGKEOQ)
 # INTRODUCTION:
 Aim is to develop a smart irrigation system to provide irrigation system which is automatic for the plants which help in saving water and money. Fields should neither be over-irrigated nor under-irrigated. The objective of this thesis is to design 
 a simple, easy to install methodology to monitor and indicate the 
@@ -58,7 +59,7 @@ The key objective of this project is to monitor the soil’s moisture content du
 ![gm3](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker%20(3).gif?token=GHSAT0AAAAAABTZRYW2FZYBI4POWBOEH7PMYTGJU6A)
 
 ### MOISTURE LEVEL ~ HIGH | TANK LEVEL ~ HIGH
-![gm4](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker%20(2).gif?token=GHSAT0AAAAAABTZRYW2NJVUCQWTHONVXTEUYTGJU2A#center)
+![gm4](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker%20(2).gif?token=GHSAT0AAAAAABTZRYW2NJVUCQWTHONVXTEUYTGJU2A)
 
 
 
