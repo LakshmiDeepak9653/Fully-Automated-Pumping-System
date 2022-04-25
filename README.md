@@ -12,4 +12,22 @@ The Arduino UNO can be programmed to analyze some signals from sensors such as m
 > -  A network of physical objects that can interact with each other to share Information and take action.
 > - The term was first proposed by Kevin Ashton in 1999.
 > - The concept of IOT first become popular at the Auto-ID center, MIT.
-> - IOT can be pronounced as Machine to Machine (M2M) technology.  
+> - IOT can be pronounced as Machine to Machine (M2M) technology.
+
+# Abstract:-
+The key objective of this project is to monitor the soil’s moisture content during its dry and wet conditions with the aid of a moisture sensor circuit, calculate the corresponding relative humidity and irrigate it based on its nature using Arduino, Soil moisture sensor, Ultrasonic sensor, GSM and an automatic water inlet setup which can also monitor and record temperature, which is constantly modified and can be controlled in future to optimize these resources so that the plant growth and yield is maximized.
+
+# List of Components:-
+- Arduino UNO R3.
+- Soil Moisture Sensor.
+- Ultra Sonic Sensor.
+- Relay Board of 2 Channels.
+- LCD.
+- DC motors.
+- Battery.
+- Diode IN4007.
+- NPN Transistors.
+- Resistors.
+- Capacitors.
+- Inductors.
+
