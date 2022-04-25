@@ -31,10 +31,6 @@ The key objective of this project is to monitor the soil’s moisture content du
 - Capacitors.
 - Inductors.
 
-![comp1](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/MINI%20PROject_00006.jpg?token=GHSAT0AAAAAABTZRYW26GNM2356NT5QNE5WYTGJGUA)
-![comp2](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/MINI%20PROject_00007.jpg?token=GHSAT0AAAAAABTZRYW2YEB7XGIK6U2GNJ5MYTGJHVQ)
-![comp3](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/MINI%20PROject_00008.jpg?token=GHSAT0AAAAAABTZRYW3THEC45MQKQ2DKZT4YTGJIBQ)
-![comp3](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/MINI%20PROject_00009.jpg?token=GHSAT0AAAAAABTZRYW3MEZI7ZU4P22CJHKYYTGJINA)
 
 # Block Diagram:-
 ![Block Diagram](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/MINI%20project%20(1).png?token=GHSAT0AAAAAABTZRYW27ANJVO56LORZX4VKYTGJKEA)
@@ -51,3 +47,15 @@ The key objective of this project is to monitor the soil’s moisture content du
 4. Arduino operates their respective Motors as per their threshold levels of Water tank level and Soil moisture.
 5. Prints the Output in LCD.
 
+# Glimpses of our Project:-
+### MOISTURE LEVEL ~ LOW | TANK LEVEL ~ LOW
+![gm1](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker.gif?token=GHSAT0AAAAAABTZRYW2HLSWRRGZH3J2WOBMYTGJSZQ)
+
+### MOISTURE LEVEL ~ HIGH | TANK LEVEL ~ LOW
+![gm2](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker%20(1).gif?token=GHSAT0AAAAAABTZRYW2DBQZ5D22JV6EQEIKYTGJUAQ)
+
+### MOISTURE LEVEL ~ LOW | TANK LEVEL ~ HIGH
+![gm3](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker%20(3).gif?token=GHSAT0AAAAAABTZRYW2FZYBI4POWBOEH7PMYTGJU6A)
+
+### MOISTURE LEVEL ~ HIGH | TANK LEVEL ~ HIGH
+![gm4](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker%20(2).gif?token=GHSAT0AAAAAABTZRYW2NJVUCQWTHONVXTEUYTGJU2A)
