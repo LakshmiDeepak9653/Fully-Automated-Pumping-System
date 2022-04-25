@@ -59,3 +59,8 @@ The key objective of this project is to monitor the soil’s moisture content du
 
 ### MOISTURE LEVEL ~ HIGH | TANK LEVEL ~ HIGH
 ![gm4](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/ezgif.com-gif-maker%20(2).gif?token=GHSAT0AAAAAABTZRYW2NJVUCQWTHONVXTEUYTGJU2A)
+
+
+# Advantages & Disadvantages:-
+![ADV](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-19.png?token=GHSAT0AAAAAABTZRYW2B3EWMUBIOFWUGRB4YTGJXJA)
+![DAD](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-20.png?token=GHSAT0AAAAAABTZRYW3PJNL6MWE4WBDCHEWYTGJYSQ)
