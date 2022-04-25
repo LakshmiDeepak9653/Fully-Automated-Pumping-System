@@ -38,3 +38,6 @@ The key objective of this project is to monitor the soil’s moisture content du
 
 # Block Diagram:-
 ![Block Diagram](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/MINI%20project%20(1).png?token=GHSAT0AAAAAABTZRYW27ANJVO56LORZX4VKYTGJKEA)
+
+# Circuit Diagram:-
+![Circuit Diagram](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/Screenshot%20from%202022-04-14%2019-14-23.png?token=GHSAT0AAAAAABTZRYW2BA7EKKZ43NPPGEHAYTGJN7A)
