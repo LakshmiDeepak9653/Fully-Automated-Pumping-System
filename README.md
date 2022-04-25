@@ -31,3 +31,7 @@ The key objective of this project is to monitor the soil’s moisture content du
 - Capacitors.
 - Inductors.
 
+![comp1](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-5.png?token=GHSAT0AAAAAABTZRYW2FWXZUEZC4HX5IFPWYTGI2AQ)
+![comp2](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-6.png?token=GHSAT0AAAAAABTZRYW3YAFSDQMFJQ6TRO64YTGI3BA)
+![comp3](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-7.png?token=GHSAT0AAAAAABTZRYW2C4G3RQTT3OKWONPAYTGI3GA)
+![comp3](https://raw.githubusercontent.com/LakshmiDeepak9653/MINIPROJECT-resources/main/page-8.png?token=GHSAT0AAAAAABTZRYW2X46VINLBMUC6WGEQYTGI3LQ)
